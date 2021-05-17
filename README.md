@@ -16,3 +16,7 @@ The file naming scheme is as followed:
 ## Why not code directly on LeetCode?
 
 The debugger is a premium feature.
+
+## Link to LeetCode profile
+
+https://leetcode.com/dbentler/
