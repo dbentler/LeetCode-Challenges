@@ -40,4 +40,6 @@ int main(){
     std::vector<int> changeInAlts = {-5,1,5,0,-7};
     int large_alt = largestAlt(changeInAlts);
     std::cout << large_alt << std::endl;
+
+    return 0;
 }
