@@ -11,7 +11,7 @@ Within each file, the problem is displayed in full, with examples and constraint
 
 The file naming scheme is as followed:
 
-- `<question-number>_<question_title (shorthand)>`
+- `<question-number>_<question_title (shorthand)>.<language>`
 
 ## Why not code directly on LeetCode?
 
