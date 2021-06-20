@@ -47,7 +47,7 @@ Constraints:
 
 int heightChecker(const std::vector<int>& heights){
     int numErrors = 0;
-    std::vector<int> expected = heights; // Creating a copy of the vector, which is then sorted to expected results.
+    std::vector<int> expected = heights; // Creating a copy of the vector, which is then sorted to expected results pre-sort.
     sort(expected.begin(), expected.end());
     for (int i = 0; i < heights.size(); i++){
         if(heights[i] != expected[i]){
